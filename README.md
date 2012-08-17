@@ -1,4 +1,4 @@
 workshop-amazon-beanstalk-cocktail
-==================================
+=============================
 
-Amazon Beanstalk Workshop illustrated with the Cocktail application
+Xebia Workshop - Amazon Elastic Beanstalk illustrated on a cocktail web site
