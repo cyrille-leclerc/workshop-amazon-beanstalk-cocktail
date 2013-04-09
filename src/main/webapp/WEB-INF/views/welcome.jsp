@@ -58,6 +58,7 @@
             <div class="span6">
                 <div class="hero-unit">
                     <h2>A to Z cocktails list</h2>
+                    <p>for Jeroen!</p>
                     <p>A to Z list of cocktail recipes.</p>
                     <p>
                         <a class="btn btn-primary btn-large" href="${pageContext.request.contextPath}/cocktail/"> Visit our cocktails! </a>
